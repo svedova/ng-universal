@@ -54,4 +54,4 @@ if (!process.env.SK_APP_ID) {
   });
 }
 
-module.exports = app;
+export default app
