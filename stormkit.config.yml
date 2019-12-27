@@ -1,0 +1,4 @@
+app:
+- redirects:
+    - ext: js,css,ico,png,jpg,json,manifest
+      cdn: true
